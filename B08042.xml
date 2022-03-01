@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true remonstrance of the state of the salt businesse, undertaken (for the furnishment thereof between Barwick and Pool; they with the Ile [sic] of Wight, and members inclusive) / by the Societie of Saltmakers of South, and North-Shields, and of Scotland.</title>
+            <author>Society of Saltmakers (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08042</idno>
+            <idno type="STC">STC 21636.5</idno>
+            <idno type="STC">ESTC S121053</idno>
+            <idno type="EEBO-CITATION">72802979</idno>
+            <idno type="OCLC">ocm 72802979</idno>
+            <idno type="VID">184120</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184120)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2229:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true remonstrance of the state of the salt businesse, undertaken (for the furnishment thereof between Barwick and Pool; they with the Ile [sic] of Wight, and members inclusive) / by the Societie of Saltmakers of South, and North-Shields, and of Scotland.</title>
+                  <author>Society of Saltmakers (London, England)</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1640?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by STC (2nd ed.).</note>
+                  <note>Colophon: "The consideration whereof is humbly presented to the most honourable Houses of Parliament."</note>
+                  <note>"At the court at Oatleands, 29 July 1638.  A draught of the contract about salt, on the behalf of Nicholas Murford" was formerly STC 18291.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murford, Nicholas, fl. 1638-1652.</term>
+               <term>Salt industry and trade --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:184120:1"/>
+            <head>A true Remonſtrance of the State of the Salt buſineſſe, undertaken (for the furniſhment thereof between <hi>Barwick</hi> and <hi>Pool;</hi> they with the Ile of <hi>Wight,</hi> and members incluſive) by the Societie of Saltmakers of <hi>South,</hi> and <hi>North-Shields,</hi> and of <hi>Scotland.</hi>
+            </head>
+            <p>IN the times of Hoſtility with <hi>Spain</hi> and <hi>France,</hi> which was in <hi>Anno</hi> 1627. 28, 29, 30. there was ſuch a ſcarcitie of Salt in this His Majeſties King<g ref="char:EOLhyphen"/>dome, that it was ſold at extream rates, <hi>Viz.</hi> 5, 6, 7, 8, 9, 10<hi rend="sup">s</hi> 
+               <hi>per</hi> Buſhell and upwards, and in many places of this Kingdome, Salt not to be had for any money: and that, which in thoſe times was imported (unleſſe by way of Reprizall) was imported by <hi>Hamburghers,</hi> and <hi>Flemings,</hi> who made their advantage of our neceſſities for ſo uſefull, and neceſſary a commodity.</p>
+            <p>When the Peace was concluded between His Majeſty, and the <hi>French</hi> King; the <hi>French</hi> King made an Edict, that no Salt ſhould be exported out of His Kingdome, upon confiſcation of Ship goods, and life.</p>
+            <p>In which ſtreight, in <hi>December</hi> 1630. The Lord Maior, and Aldermen, and the Company of <hi>Fiſhmongers</hi> of the City of <hi>London,</hi> together with the Maior, Aldermen, and Cominalty of the Town of <hi>Kings-Lynne,</hi> the Bailiffs, and Aldermen of Great <hi>Yarmouth,</hi> and divers others in behalf of them<g ref="char:EOLhyphen"/>ſelves, and the Fiſhermen Inhabiting amongſt them, did petition to the right Honourable, the Lords, and others of His Majeſties moſt Honourable Privy Counſell <hi>(in haec verba.)</hi>
+            </p>
+            <p>
+               <note place="margin">Petition inhi<g ref="char:EOLhyphen"/>ting exporta<g ref="char:EOLhyphen"/>tion.</note> HUmbly ſhewing, That whereas by an Edict made by the <hi>French</hi> King about ſix Moneths ſince, the exportation of any Salt was forbidden, whereas ſince that time, the <hi>Dutch</hi> for their ſupply have repaired to <hi>Newcaſtle,</hi> and places thereto adjoyning in this Kingdom, and have there bought, great quantities of Salt, which they export out of this Kingdome, into their own Countrey, who before the ſaid Edict, for the advance and benefit of their own people, did make a decree, that no <hi>Newcaſtle</hi> Salt ſhould be imported into their Countrey, upon pain of Confiſcation: and now by their daily, and continuall exportation of Salt out of this Kingdome, the Fiſhermen here ſhould be altogether unprovided of Salt, for their voyages to <hi>Weſmony, Iſe<g ref="char:EOLhyphen"/>land,</hi> and <hi>North-Seas.</hi>
+            </p>
+            <p>And foraſmuch as all other things to furniſh them to Sea, are now at exceſſive rates, as victualls, Cordage, and all other materialls: and alſo Salt by reaſon of the ſaid exportation, much inhaunced in price, by reaſon whereof the Fiſhermen ſhall be diſabled to go to Sea, their voyages overthrown, and thereby this Kingdome deſtitute of victuall, which is by them brought in.</p>
+            <p>The Petitioners humbly pray this Honourable Board, to take into conſideration, that it concerneth the maintenance, and imployment of many thouſand Seamen, the Nurſery of <hi>Navigation,</hi> the ſupply of this Kingdom with Fiſh, and therefore to reſtrain the exportation of all Salt from <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> and places thereto adjoyning, out of this Kingdome, untill <hi>Midſomer</hi> next; by which time we hope this Kingdome, which is now deſtitute in all parts, may be ſupplyed out of <hi>Spain,</hi>
+            </p>
+            <closer>And your Petitioners ſhall pray, &amp;c.</closer>
+         </div>
+         <div type="answer">
+            <opener>
+               <dateline>
+                  <hi>Whitehall</hi> 
+                  <date>the eight of <hi>December,</hi> 1630.</date>
+               </dateline>
+            </opener>
+            <p>
+               <note place="margin">Ordered that none be expor<g ref="char:EOLhyphen"/>ted.</note> 
+               <hi>Their Lordſhips upon mature advice, and deliberation had thereof, have thought fit, and ordered, that the exportation of all Salt, aſwell from the Ports of Newcaſtle, as from all other Ports of this Kingdome, into forraign parts, be hereby ſtrictly prohibited, and that no Salt ſhall be laden or Shipped at any Port of this Kingdome, before good ſecurity be given, that the ſame ſhall be brought to ſome other Ports of this Realm, and there ſold and diſpoſed to his Majeſties Subjects, within the ſame. Hereof the Lord Treaſurer is prayed, and required, to take notice, and give directions to the ſeverall Ports accordingly,</hi>
+            </p>
+            <p>
+               <note place="margin">1630.</note> The Peace being concluded between the Crowns of <hi>England,</hi> and <hi>Spain,</hi> divers Merchants of this Kingdome ſent to <hi>Spain,</hi> betweene 2. and 300. ſail of Ships, to fetch Salt for the ſupply of this Kingdome, and the King of <hi>Spain</hi> taking advantage of our neceſſities, did not only along time imbarge the ſaid Ships, but did alſo impoſe upon his Salt 30 Ryalls <hi>per Moy,</hi> and 3 <hi>Moys</hi> making a <hi>London</hi> weigh, and the principall price of the Salt was formerly but 12 to 15 Ryalls <hi>per Moy;</hi> ſo the Impoſt on every weigh, was 45' <hi>per</hi> weigh: by which means of imbargement, and Impoſition His Majeſties Sub<g ref="char:EOLhyphen"/>jects were damnified in that voyage (though Salt was ſold here at a very dear rate) at the leaſt forty thouſand pounds ſterling.</p>
+            <p>Whereupon divers of the ſaid Merchants for their relief, did a long time Petition His Majeſty, and the Board, for imbargement of their Ships, and impoſitions laid by the King of <hi>Spain,</hi> upon the ſaid Salt, but could get none.</p>
+            <p>Thereupon His Majeſty, in His Princely care, with the advice of His moſt Honourable Privy Counſell, and His Councell learned in the Law, fell into conſideration how to erect a native manufactury within His Majeſties Kingdomes of <hi>England,</hi> and <hi>Scotland,</hi> for the ſupplying of theſe His King<g ref="char:EOLhyphen"/>domes (without dependency upon any forraign State) with Salt, being ſo neceſſary and uſefull, as cannot be wanted, His Majeſty being informed, that there were ſufficient materialls (as Pan-coales, fit for no other uſe) within His Kingdomes of <hi>England</hi> and <hi>Scotland,</hi> to go on with the work, and by which means many thouſands of His poore Subjects ſhould have imployments in making the ſaid Comodity: which hath been proved, and will be maintained to be as ſufficient for Sea, and in land uſes, as any forraign Salt whatſoever. And that Fiſh ſalted with that Salt, doth out ſell Fiſh ſalted with any Forraine Salt in any Market whatſoever.</p>
+            <p>
+               <note place="margin">
+                  <g ref="char:V">Ʋ</g>ndecimo <hi>Caroli.</hi> The first Society.</note> Upon which weighty conſiderations His Majeſty was pleaſed to give incouragement by incorporating many of His Subjects of <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> to erect works for the making of Salt, enabling them with divers liberties and priviledges, for the regulating of the ſaid Trade, or Miſtery for the term of fourteen yeers, with <hi>Proviſo,</hi> that in caſe His Majeſty, and the State ſhould finde any better way for the ſettlement thereof, within three yeers, their Charter of Incorporation to be ſurrendered: wherein the ſaid Societies were tyed to theſe particulars.</p>
+            <p n="1">1 To make a ſufficient quantitie of good and Merchantable Salt for the ſupply of His Subjects within the limits between <hi>Barwick</hi> and <hi>Southampton,</hi> they with the Ile of <hi>Wight</hi> included.</p>
+            <p n="2">2 At a certain moderate price, not exceeding three pounds <hi>per</hi> weigh for Land-uſe, accompting forty Buſhels to the weigh, and ten Gallons to every Buſhell, and 50<hi rend="sup">s</hi> 
+               <hi>per</hi> weigh for Fiſhery-uſe, out of which they were to pay His Majeſty for what they did make, 10<hi rend="sup">s</hi> 
+               <hi>per</hi> weigh for Land-uſe, and 3<hi rend="sup">s</hi> 4<hi rend="sup">d</hi> 
+               <hi>per</hi> weigh for Fiſhery uſe: In recompence to His Majeſty for what he ſhould looſe in his cuſtomes by reſtraint of forraign Salt.</p>
+            <p n="3">3. To permit any that had any Salt-workes erected within the Limits to make and ſell, they conforming themſelves to ſuch meet orders of the ſaid Society, for the regulating of their Trade, as were not repugnant to His Majeſties Lawes.</p>
+            <div type="covenant">
+               <head>His Majeſtie covenanteth with the ſaid Societie.</head>
+               <p n="1">1 To regulate the Society of Saltmakers in <hi>Scotland.</hi>
+               </p>
+               <p n="2">2 To inhibite forraign Importation within the Limits under a <hi>nomine penae</hi> of 48<hi rend="sup">s</hi> 6<hi rend="sup">d</hi> 
+                  <hi>per</hi> weigh to ſupport the native Manufacture at home.</p>
+               <p>Not long after, ſeverall Merchants of <hi>Southampton,</hi> and the Weſt parts with ſome Salters in <hi>London</hi> Petitioned the Board againſt the ſaid Inhibition of forraign Salt, and procured liberty to import great quantities of forraign Salt, pretending the Native Salt, was inſufficient to ſave their Newfound-Land Fiſh, and for other uſes thereby intending rather to deſtroy then ſupport ſo good a Native Manufactury in this Kingdome, as the making of Salt was.</p>
+               <p>Shortly after one <hi>Nicholas Murford</hi> propoſeth to His Majeſty a new way of making of Salt by the Sun, and to ſupply the whole Kingdomes of <hi>England</hi> and <hi>Ireland,</hi> with ſufficient Salt for all uſes, and to pay His Majeſty out of it 10<hi rend="sup">s</hi> 
+                  <hi>per</hi> weigh, for all Land uſe, and 3<hi rend="sup">s</hi> 4<hi rend="sup">d</hi> 
+                  <hi>per</hi> weigh for Fiſhery but propounded no certain price to the Subject: Which propoſition of <hi>Murfords,</hi> and the liberty of Importation to the Merchants of <hi>Southampton</hi> cauſed the firſt undertakers, to Petition His Majeſty to be diſcharged: Whereupon many diſputes aroſe between the Societies of <hi>Scotland,</hi> and them of <hi>South,</hi> and <hi>North-Shields,</hi> and the ſaid <hi>Nicholas Murford:</hi> For the hearing whereof, His Majeſty, and the Board appointed a day to hear the ſaid parties at <hi>Greenwich</hi> in <hi>July</hi> 1638. when the ſaid <hi>Murford</hi> proffered His Majeſty, and the Board to farm his ſaid duties of 10<hi rend="sup">s</hi>. and 3<hi rend="sup">s</hi> 4<hi rend="sup">d</hi>. and 48<hi rend="sup">s</hi> 6<hi rend="sup">d</hi> 
+                  <hi>per</hi> weigh, and give ten thouſand pounds <hi>per annum</hi> for the ſame, provided none might import any forraign Salt, but the ſaid <hi>Murford</hi> to whom the ſaid duties were let at 10000<hi rend="sup">l</hi> 
+                  <hi>per annum.</hi> And, the Society of <hi>South,</hi> and <hi>North-Shields</hi> left to uſe their Pans, and ſell as they pleaſe; provided, they paid His Majeſties duties of 10<hi rend="sup">s</hi> 
+                  <hi>per</hi> weigh for Land uſe, and 3<hi rend="sup">s</hi> 4<hi rend="sup">d</hi> 
+                  <hi>per</hi> weigh for Fiſhery expence.</p>
+               <p>Which cauſed the Saltmakers of <hi>South</hi> and <hi>North-Shields</hi> (ſeeing the ſaid <hi>Murford</hi> was permitted to import what Salt he pleaſed, and ſet up what works he would, which aſſured them, that nothing leſſe, then their undoing could befall them) for their relief therein to Petition His Majeſty at <hi>Oatelands</hi> the 15 of <hi>July</hi> 1638. that they might either be diſcharged of the duties of 10<hi rend="sup">s</hi> and 3<hi rend="sup">s</hi> 4<hi rend="sup">d</hi> 
+                  <hi>per</hi> weigh, or have ſome courſe taken that they might have ſail for what they made at moderate rates, ſo as they might ſubſiſt in their Trade, elſe they could neither pay His Majeſty, nor ſubſiſt.</p>
+               <p>His Majeſty thereupon conferring with His moſt Honourable Privy Counſell, wiſhed ſome courſe might be taken, that they might be relieved, and that they ſhould think of ſome better courſe, and attend him at <hi>Oatelands</hi> the then next ſitting of the Lords. At which time, the preſent Society of Salt<g ref="char:EOLhyphen"/>makers made ſome propoſitions to His Majeſty, both to pay His Majeſty, and ſerve His Subjects at more moderate rates then formerly, which toge<g ref="char:EOLhyphen"/>ther with the ſaid <hi>Nicholas Murfords</hi> were read, and conſider of at <hi>Oatelands, July</hi> 29, 1638. and an Order as followeth, was thereupon made,</p>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:184120:2"/>
+            </div>
+            <div type="account">
+               <pb facs="tcp:184120:3"/>
+               <opener>
+                  <dateline>At the Court at Oatelands, <date>
+                        <hi>29</hi> July <hi>1638.</hi>
+                     </date>
+                  </dateline>
+               </opener>
+               <p>A draught of the Contract about Salt, on the behalf of <hi>Nicholas Murford,</hi> being this day read at the Board, alſo a Propoſition made by <hi>Thomas Horth</hi> Merchant, and others owners of Salt-Pans at <hi>South,</hi> and <hi>North-Shields,</hi> and another Petition on the behalf of the Town of great <hi>Yarmouth,</hi> after long debate, His Majeſty with the advice of the Board, did referre the conſideration of the ſecurity preſented by the ſaid <hi>Nicholas Murford,</hi> to the Lord High <hi>Treaſurer</hi> of <hi>England,</hi> and the Lord <hi>Cottington,</hi> and if their Lordſhips do approve thereof, then to proceed with to finiſh the contract with the ſaid <hi>Mur<g ref="char:EOLhyphen"/>ford,</hi> or as they ſhould finde moſt expedient for his Majeſties ſervice.</p>
+               <p>The ſaid Lord High <hi>Treaſurer</hi> of <hi>England,</hi> and Lord <hi>Cottington</hi> to whom the buſineſſe for ſettlement was referred, made choice rather of the new So<g ref="char:EOLhyphen"/>cietie, their propoſitions then of M<hi rend="sup">r</hi> 
+                  <hi>Murfords.</hi> As by their report to his Majeſty made in <hi>Auguſt</hi> 1638. appeareth, and for theſe reaſons following.</p>
+               <p n="1">1 Becauſe their price was certain, and at cheaper prices then formerly.</p>
+               <p n="2">2 That their means of making, was certain, being made only by Salt-Water and Fire.</p>
+            </div>
+            <div type="judgment">
+               <head>And Maſter Murfords undertaking uncertain.</head>
+               <p n="1">1 By reaſon he depended on hot and dry weather, which was uncertain, without which he could make little or no Salt.</p>
+               <p n="2">2 He would ſet no certain price, but would be left to his will to raiſe, and fall in it, as he pleaſed.</p>
+               <p n="3">3 That none ſhould import any forraign Salt but he. As by the order of His Majeſty, and the Board the 15 day of <hi>July</hi> 1638. appeareth.</p>
+               <p>Whereupon His Majeſty in His Princely care, tendring the good of the Weale Publike, was pleaſed to admit freedome of diſpute, what could be ſaid in oppoſition by all the ſeverall Ports within the Lymits, with the City of <hi>London, Fiſhmongers,</hi> and Traders in Salt there; appointing a particular day for the hearing of all their complaints, reaſons, and diſcourſes for the full clearing thereof, before the ſettlement thereof, expreſſed as followeth.</p>
+            </div>
+            <div type="settlement">
+               <head>At Whitehall the ninteenth of December, <hi>1638.</hi>
+               </head>
+               <p>This day upon conſideration had at the Board (His Majeſty being preſent in Counſell) of the ſeverall Petitions preſented in the name of the Cinque Ports, and their members the Towns, and Counties of <hi>Southampton</hi> and <hi>Poole,</hi> and the Towns of <hi>Weymouth,</hi> and <hi>Welcomb Regis,</hi> the Town and Fiſhery of great <hi>Yarmouth, Lewes,</hi> and of the Traders in Fiſh, and Salt of the City of <hi>London,</hi> touching the vending and making of Salt at <hi>Shields:</hi> And upon hearing of the Agents of the ſaid Ports, and their Councell, and the anſwer of <hi>Thomas Horth,</hi> and the new undertakers of the ſaid Saltbuſineſſe. His Majeſty, and the Bord conceiving it to be a matter of great advantage to the Kingdom, that Salt made within His M<hi rend="sup">ies</hi> own Dominions ſhould be pre<g ref="char:EOLhyphen"/>ferred, and uſed before any forraign Salt, and finding upon debate, that the Salt made in His Majeſties Dominions is ſufficient for all uſes; Did there<g ref="char:EOLhyphen"/>fore order that the ſaid buſineſſe be forth with eſtabliſhed, and that for the price, the Lord <hi>Treaſurer,</hi> and the Lord <hi>Cottington</hi> ſhould be hereby prayed, and required to call before them ſome Fiſhermen, and others, and upon hearing of them, and the ſaid <hi>Horth,</hi> to ſet down what rates and prices Salt ſhall be ſold at by the undertakers, which was by their Lordſhips ſetled accordingly.</p>
+               <p>Since which ſettlement, the ſaid preſent undertakers, have been alwayes furniſhed with ſufficient quantities to ſerve within the limits, and have not at any time ſold the ſame above three half pence <hi>per</hi> Gallon at the moſt, but for the greateſt part they have not ſold for above one penny <hi>per</hi> Gallon.</p>
+               <p>
+                  <note place="margin">The ſecond undertaking began <hi>14<hi rend="sup">o</hi> Caroli.</hi>
+                  </note>And they are able to make ſuch quantities of good and ſufficient Salt, to ſerve within the limits, and the whole Kingdom, if need be, at j<hi rend="sup">d</hi>. <hi rend="sup">ob</hi>. <hi>per</hi> Gallon, which is far cheaper than it hath been at many yeers before, or ſince the ſurrendring and diſcharging the ſaid undertakers. It having been ſold, before either of the ſaid Societies were ſettled; at 4<hi rend="sup">l</hi>. 3<hi rend="sup">l</hi>. 15<hi rend="sup">s</hi>. 3<hi rend="sup">l</hi>. 10<hi rend="sup">s</hi>. and 3<hi rend="sup">l</hi>. the Sheilds weigh, many yeers together: And ſince the diſcharge of the ſaid Charter, Salt hath been ſold in <hi>London</hi> by the Ingroſſers, Foreſtallers, and Regrators, at 2<hi rend="sup">s</hi>. and 2<hi rend="sup">s</hi> 6<hi rend="sup">d</hi>. the Peck, Land-meaſure, which is lightly meaſu<g ref="char:EOLhyphen"/>red, whereby they make 5 Pecks and half out of every Buſhell that they buy from the Merchant, which is 13<hi rend="sup">s</hi>. 9<hi rend="sup">d</hi>. <hi>per</hi> Buſhell, accounting 40 Buſhels to the weigh,<note place="margin">As in the moneths of Ianuary and February. The French King for mixt clothes. The States of the Nether<g ref="char:EOLhyphen"/>lands for white Salt.</note> is 27<hi rend="sup">l</hi> 10<hi rend="sup">s</hi> the weigh; which coſt them not at the deareſt (laid up in their houſes) above 5<hi rend="sup">l</hi> 
+                  <hi>per</hi> weigh, which in the being of both the Charters was not ſold at above five pence or ſix pence <hi>per</hi> Peck at moſt by the Retayler: which moderate rate was occaſioned by the certainty of the price: And therefore the Retailers of Salt in <hi>London,</hi> with the Refiners of Salt. And ſome <hi>Western</hi> Merchants trading to the Newfound-Land; are the main oppo<g ref="char:EOLhyphen"/>ſers of this Native Manufacture, which all other Princes and States, do ſo nuch cheriſh when they can erect any Native Manufacture within their own principalities, to give employment to their own Natives, that they prohibit the importation of any ſuch Commodity, upon confiſcation of Ship and Goods.</p>
+               <list>
+                  <head>Objections by the oppoſers: Are</head>
+                  <item>1 That it is a Monopoly.</item>
+                  <item>2 That the Impoſition laid upon the forraign, and Native Salt, is contraty to Law.</item>
+                  <item>3 That the proſecution hath been unjuſt, and with violence.</item>
+                  <item>4 That the Comodity is not ſufficient for the Fiſhery Trade.</item>
+                  <item>5 That the prices are extreame.</item>
+                  <item>6 That there cannot be ſufficient quantities made to ſerve the Kingdome.</item>
+                  <item>7 That it is a very great decay to Navigation.</item>
+                  <item>8 That it is an Enbargement to Free Trade.</item>
+               </list>
+               <list>
+                  <head>Anſwer</head>
+                  <item n="1">1 The Charter was granted for 14 yeers with <hi>proviſo,</hi> that if His Majeſty or State ſhould finde any better way for the ſettlement thereof, to be ſurren<g ref="char:EOLhyphen"/>dred at three yeers. It debarres no man from making, that formerly had any works, no man from erecting of new works, only requires them to be of the Corporation, and to pay the duty impoſed by His Majeſty, and to ſerve the Subject at the rates agreed on. If a Monopoly be a ſole Vendition, the So<g ref="char:EOLhyphen"/>ciety are not the ſole Vendors, for all Salt Retaylers are free to come and buy at the works, or without the lymitts.</item>
+                  <item n="2">
+                     <note place="margin">Chiefe Iuſtice <hi>Popham,</hi> in the Caſe of Currents.</note>2 It is a Judg'd caſe, that His Majeſty may under a <hi>nomine penae</hi> prohibite importation of any forraign Comodity, it hath not at any time been adjudged againſt His Majeſty, that without a <hi>nomine penae</hi> he cannot prohibite the Importation of any forraign Commodity that he intends to make a Native Manufacture.</item>
+                  <item n="3">3 The proſecution is warranted by order of the Lords, and yet not proſecuted with violence, but with great moderation.</item>
+                  <item n="4">4 It is ſufficient to cure both Cod and Ling, and doth ſell at any Market dearer and better then that which is cured with <hi>French</hi> or <hi>Spaniſh</hi> Salt.</item>
+                  <item n="5">5 During the Charter, Salt hath been cheaper then before or after the Society ſelling it at ſuch moderate Rates to the Retaylers, that the Common<g ref="char:EOLhyphen"/>wealth from the Retaylers of Salt, might be ſerved at any time at 2<hi rend="sup">d</hi>½ or 3<hi rend="sup">d</hi> the Gallon at the moſt, and yet the Retaylers of Salt, ſufficient gainers there<g ref="char:EOLhyphen"/>by, but ſince the Delivery up of the Charter, Salt hath been, and is ſold by the Retaylers to the Subject at two ſhillings the Peck, as at this day.</item>
+                  <item n="6">6 The Society of both Kingdomes, are able to make farre greater quantities then His Majeſties Kingdomes can Vend.</item>
+                  <item n="7">7 Navigation ſhall not be prejudiced, but rather beneficed by the Manufacture, for it will appear upon Examination by the Books of entry retur<g ref="char:EOLhyphen"/>ned by the Officers of the Ports, that whereas there is one <hi>Engliſh</hi> bottome that formerly hath imported Salt, there have been ten ſtrangers to one, but hereby will be many hundreds of <hi>Engliſh</hi> Barqes imployed from Port to Port of His Majeſties Subjects only.</item>
+                  <item n="8">8 The complaint of want of free Trade concernes the Complainants private ends, and not the generall good, they intending in their particular way by ingroſing, foreſtalling, and regrating to make a ſcarcity at their pleaſure, to the great abuſe of the Weale publike, which they cannot ſo well do if this Comodity be made a Native Manufacture, and ſettled at a certain moderate known rate, as aforeſaid.</item>
+               </list>
+               <list>
+                  <head>Inconveni<g ref="char:EOLhyphen"/>ences.</head>
+                  <item n="1">1 THe importation of Salt, by the French, is the exportation of the treaſure of the kingdome although the Law command, that the mony, ta<g ref="char:EOLhyphen"/>ken for Salt &amp;c, ſhalbe imployed in the Commodity of this kingdome, yet not one ſtranger of ten imploys his money in England, for be<g ref="char:EOLhyphen"/>tween the Buyer, the Officer, and the Seller, there are only factionall Bills of imployment, but no imployment.</item>
+                  <item n="2">2 If Salt proove ſcarce in France, then our Engliſh muſt dearely pay for that ſcarcity.</item>
+                  <item n="3">3 If the French King lay an Edict, that none ſhall be tranſported (as he hath done) upon confiſcation of Ship, goods, and life, then theſe King<g ref="char:EOLhyphen"/>domes cannot be ſerved with that moſt uſefull and neceſſary Commodity.</item>
+                  <item n="4">4 If wars fall between the Crownes of France and England, then we can have no French Salt, but ſuch as is imported by Flemings, or ſome other Neutrall States, who (as they have done) will make advantage of our neceſſities.</item>
+                  <item n="5">5 In the like Caſe we ſtand with <hi>Spaine,</hi> to both of them we ſhall be Subiect to what tax or Impoſition they pleaſe to lay upon that Comodity which we cannot be without, nor the Common-weale at any certaintie, unleſſe the Manufactures be ſupported.</item>
+               </list>
+               <p>
+                  <label>Conveniences</label> BE it warre, or peace, Scarcity or plenty in forraign parts His Maieſties Kingdomes and Subiects, may be ſerved with a ſufficiency of good Salt, many thouſands of his poore Subiects ſet on work, and gain their daily livelihood, the materialls that the Salt is made by, not uſefull for theſe Kingdomes, only for the Salt works, being Salt water and Pan-coales, Navigation no wayes preiudiced, much leſſe deſtroyed, nor any Enbarge<g ref="char:EOLhyphen"/>ment of any free Trade to the preiudice of the Weale-publike, why ſhould the Manufacture be deſtroyed to the diſhonour of His Maieſty, the ruine of ſuch His Loyall Subiects, who by His Maieſties command, and Princely Encouragement, have ſpent many thouſands of pounds to bring the work to perfection, beſide the miſerable diſtreſſe that many thouſands of His Maieſties poore Subiects will be left in, who eate their dayly bread, by their dayly labour in that Manufacture. Which reaſons are humbly offered for the ſupportation of ſo abſolute, and neceſſary a Comodity which muſt of neceſſity be deſtroyed, unleſſe the inhibition of importation of forraign Salt, within the Lymitts be ratified and confirmed.</p>
+               <closer>The conſideration whereof is humbly preſented to the moſt honourable Houſes of Parliament.</closer>
+               <pb facs="tcp:184120:4"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
